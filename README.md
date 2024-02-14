@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fire+code&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+sou+Felipe+Santos;Programador+Junior)](https://git.io/typing-svg)
 
 - 🔭 Trabalho na Midea Carrier como suporte T.I, e desenvolvo uns codiguin..
-- 🌱 Estudando html, css, javascrpit e C
+- 🌱 Estudando JavaScript/HMTL/CSS & C
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=felipims2&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
  
