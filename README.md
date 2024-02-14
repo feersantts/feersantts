@@ -2,8 +2,8 @@
 
 - 🔭 Trabalho na Midea Carrier como suporte T.I, e desenvolvo uns codiguin..
 - 🌱 Estudando html, css, javascrpit e C
-
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=felipims2&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+ 
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=felipims2&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
  
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/feersantts?igsh=ZW53NDZ3aGhtampo&utm_source=qr)
@@ -11,6 +11,7 @@
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feersantts_icons=true&bg_color=00000000)
 
 <!-- Portfolio -->
 ## Portfolio:
